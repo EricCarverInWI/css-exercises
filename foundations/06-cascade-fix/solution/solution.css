@@ -68,6 +68,11 @@ div.text {
     font-weight: bold;
   }
 */
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
 
 #confirm-button {
   background: green;
@@ -101,3 +106,4 @@ div .child {
   font-weight: 800;
   font-size: 14px;
 }
+
